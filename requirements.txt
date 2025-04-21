@@ -1,6 +1,6 @@
 Flask
 pandas
 numpy
-scikit-learn==0.23.0
+scikit-learn==1.6.1
 gunicorn
 catboost==1.2.7
